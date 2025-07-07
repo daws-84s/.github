@@ -19,6 +19,11 @@ https://www.youtube.com/watch?v=F4jF88UkxV4
 
 https://portal.aws.amazon.com/billing/signup
 
+### AWS Account Creation
+
+https://www.youtube.com/watch?v=F4jF88UkxV4
+
+https://portal.aws.amazon.com/billing/signup
 
 
 
